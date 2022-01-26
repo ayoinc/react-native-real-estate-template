@@ -1,5 +1,7 @@
 # React Native Real Estate Template
 
+[![Git](https://app.soluble.cloud/api/v1/public/badges/b732a3c5-9c4f-4d76-a1b2-1110c27f90a0.svg?orgId=666444378491)](https://app.soluble.cloud/repos/details/github.com/ayoinc/react-native-real-estate-template?orgId=666444378491)  
+
 ## Setup
 
 1. Follow the instructions on the "React Native CLI Quickstart" tab of
