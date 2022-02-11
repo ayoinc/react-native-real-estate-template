@@ -12,7 +12,7 @@
     "lint": "eslint . --ext .js,.jsx,.ts,.tsx"
   },
   "dependencies": {
-    "@apollo/client": "^3.3.0",
+    "@apollo/client": "^3.5.7",
     "@react-native-community/masked-view": "^0.1.10",
     "@react-native-community/segmented-control": "^2.2.2",
     "@react-native-picker/picker": "^1.9.8",
